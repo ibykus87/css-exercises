@@ -1,0 +1,13 @@
+.same {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.differ-one {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.differ-two {
+    background-color: rgb(251, 255, 0);
+}
